@@ -42,6 +42,12 @@ break the line.
    * Item 3a
    * Item 3b
 
+###Using Image (scaling not possible!)
+![Image Title](/images/logo.png)
+
+
+
+### Uses of Table
 GitHub Logo:                    |
 ------------------------------- |
 ![GitHub Logo](/images/logo.png)|
