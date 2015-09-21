@@ -36,7 +36,6 @@ break the line.
 2. List2
     * Sub List 1
     * Sub List 2
-
 1. Item 1
 2. Item 2
 3. Item 3
