@@ -71,11 +71,11 @@ Heading      | Heading
 GitHub Logo: |![GitHub Logo](/images/logo.png)
 
 
-'''javascript
+```javascript
 function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
   }
 }
-'''
+```
 
