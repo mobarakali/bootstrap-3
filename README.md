@@ -65,4 +65,5 @@ Mr. Ali told
 ###Inline code
 
 I think you should use an
-'<addr>' element here instead.'<addr>' But I'm not sure how it works!
+'<addr>' element here instead.'<addr>'
+> But I was not sure how it works! but it makes a inline '<addr>'quote'<addr>'!
