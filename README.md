@@ -51,11 +51,6 @@ http://github.com works automatic!
 
 [Yahoo!](http://yahoo.com) needs code to work as a link.
 
-### Uses of Table
-GitHub Logo:                    |
-------------------------------- |
-![GitHub Logo](/images/logo.png)|
-
 
 ### Using Blockquote
 Mr. Ali told
@@ -67,3 +62,11 @@ Mr. Ali told
 I think you should use an
 '<addr>' element here instead.'<addr>'
 > But I was not sure how it works! but it makes a inline quote ('<addr>'  '<addr>').
+
+
+### Uses of Table
+
+Heading      | Heading
+------------ | -------------------------------
+GitHub Logo: |![GitHub Logo](/images/logo.png)|
+
