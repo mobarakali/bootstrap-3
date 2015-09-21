@@ -70,6 +70,9 @@ Heading      | Heading
 ------------ | -------------------------------
 GitHub Logo: |![GitHub Logo](/images/logo.png)
 
+### Code Example
+
+**JavaScript**
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
@@ -77,7 +80,7 @@ function fancyAlert(arg) {
   }
 }
 ```
-
+**HTML5**
 ```html
 <!DOCTYPE html>
 <html lang="en">
