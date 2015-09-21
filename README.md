@@ -9,6 +9,8 @@ help file on *github*.
 Markdown is a lightweight and easy-to-use syntax for styling all forms of
 writing on the GitHub platform.
 
+** To make a text bold** use [**]
+
 GitHub Logo:                    |
 ------------------------------- |
 ![GitHub Logo](/images/logo.png)|
