@@ -17,6 +17,10 @@ writing on the GitHub platform.
 ####Heading 4
 #####Heading 5
 ######Heading 6
+This is a paragraph
+
+This is another paragraph, but I don't know how to
+break the line.
 
 GitHub Logo:                    |
 ------------------------------- |
