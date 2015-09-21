@@ -45,7 +45,10 @@ break the line.
 ###Using Image (scaling not possible!)
 ![Image Title](/images/logo.png)
 
+### Links
 
+http://github.com works automatic!
+[Yahoo!](http://yahoo.com)
 
 ### Uses of Table
 GitHub Logo:                    |
