@@ -48,7 +48,8 @@ break the line.
 ### Links
 
 http://github.com works automatic!
-[Yahoo!](http://yahoo.com)
+
+[Yahoo!](http://yahoo.com) needs code to work as a link.
 
 ### Uses of Table
 GitHub Logo:                    |
