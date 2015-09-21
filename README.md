@@ -68,5 +68,5 @@ I think you should use an
 
 Heading      | Heading
 ------------ | -------------------------------
-GitHub Logo: |![GitHub Logo](/images/logo.png)|
+GitHub Logo: |![GitHub Logo](/images/logo.png)
 
