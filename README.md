@@ -24,17 +24,17 @@ break the line.
 
 ###Here is some list items
 
-**Ordered List**
+**Un-Ordered List**
 * List 1
 * List 2
     * Sub List 1
     * Sub List 2
 
-**Un-Ordered List**
-1 List 1
-2 List 2
-    1 Sub List 1
-    2 Sub List 2
+**Ordered List**
+1. List 1
+2. List 2
+    1. Sub List 1
+    2. Sub List 2
 
 GitHub Logo:                    |
 ------------------------------- |
