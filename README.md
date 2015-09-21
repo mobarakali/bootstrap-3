@@ -22,6 +22,20 @@ This is a paragraph
 This is another paragraph, but I don't know how to
 break the line.
 
+###Here is some list items
+
+**Ordered List**
+* List 1
+* List 2
+    * Sub List 1
+    * Sub List 2
+
+**Un-Ordered List**
+1 List 1
+2 List 2
+    1 Sub List 1
+    2 Sub List 2
+
 GitHub Logo:                    |
 ------------------------------- |
 ![GitHub Logo](/images/logo.png)|
