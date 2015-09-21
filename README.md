@@ -11,6 +11,13 @@ writing on the GitHub platform.
 
 **Here is some bold text** and *this texts are italic*
 
+#Heading 1
+##Heading 2
+###Heading 3
+####Heading 4
+#####Heading 5
+######Heading 6
+
 GitHub Logo:                    |
 ------------------------------- |
 ![GitHub Logo](/images/logo.png)|
