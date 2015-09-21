@@ -33,8 +33,8 @@ break the line.
 **Ordered List**
 1. List 1
 2. List 2
-    1. Sub List 1
-    2. Sub List 2
+    * Sub List 1
+    * Sub List 2
 
 GitHub Logo:                    |
 ------------------------------- |
