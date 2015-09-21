@@ -62,3 +62,7 @@ Mr. Ali told
 >You can visit my ***github*** page here is the link:
 >[http://mobarakali.github.io/index.htm](http://mobarakali.github.io/index.htm)
 
+###Inline code
+
+I think you should use an
+'<addr>' element here instead. But I'm not sure how it works!
