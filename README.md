@@ -70,3 +70,11 @@ Heading      | Heading
 ------------ | -------------------------------
 GitHub Logo: |![GitHub Logo](/images/logo.png)
 
+'''javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+'''
+
